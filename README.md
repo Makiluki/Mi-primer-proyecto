@@ -11,13 +11,13 @@ First we going to need to create a new Flutter project.
 
     flutter create --help
   
-* We can see a world of posivilitis to make our project.
+* We can see a world of posibilities to make our project.
 
 **Our file is going to be like this:**
 
     flutter create --project-name donnut_app .
     
-That "." is asumming that you alredy have created your dir a you´r in there , the tree is goig to look like; From here `/usr/your_usr/app_project/{here is where we going to put our donnut_app comand because we alredy created de app_project dir}` if you want to create a dir while your doing the bash code you must put:
+That "." is asumming that youalredy have created your dir a you're in there , the tree is goig to look like; From here `/usr/your_usr/app_project/{here is where we going to put our donnut_app comand because we alredy created de app_project dir}` if you want to create a dir while your doing the bash code you must put:
 
     flutter create --project-name donnut_app name_dir
   
