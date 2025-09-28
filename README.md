@@ -25,15 +25,13 @@ That "." is asumming that youalredy have created your dir a you're in there , th
 
     pwd ´usr/your_usr/name_dir/donnut_app_data´
 
-We put `data` because flutter create have a lot of dirs...
+We put `data` because flutter create has a lot of dirs...
 
-* Then we move to the lib dir in `./name_dir/lib`
+* Then we move the lib dir in `./name_dir/lib`
 * We paste all our lib content (icons, images, pages, tab, util)
 * Then we go whit `cd ..` to `/name_dir/`
-* There whe paste our `pubspec.yaml` for the project compatibilitis and dependencies
-* ...
-
-ahora todo esta en tus manos timmy, ya hice mi parte :* 
+* There, whe paste our `pubspec.yaml` for the project compatibilities and dependencies
+* And contninue creating our UI inside de file lib, where we are going to store all our pages and codes
   
 A few resources to get you started if this is your first Flutter project:
 
